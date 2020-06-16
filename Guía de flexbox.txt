@@ -1,0 +1,14 @@
+1. Introduccion
+2. Displays
+3. Direcciones
+4. Envoltorio
+5. Orden
+6. Grow y shrink 
+7. Flex basis 
+8. Variables y funciones CSS 
+9. Alineacion 
+10. Maquetacion completa con flexbox
+
+¿que es flexbox?
+es una tecnologia que se a incluido en css. Es una nueva forma de trabajar con las cajas, esto es mas facil de trabajar
+
