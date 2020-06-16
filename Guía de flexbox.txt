@@ -12,3 +12,4 @@
 ¿que es flexbox?
 es una tecnologia que se a incluido en css. Es una nueva forma de trabajar con las cajas, esto es mas facil de trabajar
 
+Flexbox siempre tiene que actuar dentro de un div, nunca una etiqueta suelta como body 
