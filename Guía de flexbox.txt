@@ -13,3 +13,13 @@
 es una tecnologia que se a incluido en css. Es una nueva forma de trabajar con las cajas, esto es mas facil de trabajar
 
 Flexbox siempre tiene que actuar dentro de un div, nunca una etiqueta suelta como body 
+
+1. Displays
+
+display:flex // nos permitira poner nuestros elementos uno a la par de otro de igual forma que display float 
+
+display:inline-flex // nos permitira poner nuestros elementos uno a la par de otro con la diferencia de
+que el div o caja que contiene nuestros elementos se vuelva adaptable según los elementos que contiene
+2. Direcciones
+flex-direction //nos permite definir hacia que dirección queremos se coloquen nuestros elementos 
+ya sea row, column, row-reverse o column-reverse
