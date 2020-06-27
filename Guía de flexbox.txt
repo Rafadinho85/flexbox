@@ -28,3 +28,13 @@ ya sea row, column, row-reverse o column-reverse
 flex-wrap:wrap al empezar a agregar elementos en contenedor sucedera que se salen de ese contenedor, para evitar
 eso utilizamos estra instrucción y eso evitara que se salgan y los coloca debajo de los elementos
 flex-flox:wrap realiza lo mismo que el metodo de arriba
+4. Orden
+Me permite cambiar el orden de mis elementos, esta etiqueta no se aplica al contener sino que a los elementos
+order:1
+order:2
+order:3
+
+6. Grow y shrink 
+flex-grow: 1-12 uno al doce significa el numero de columnas que ocupara nuestro elemento
+; // cada elemento que tenga esta propiedad va a ocupar el mismo espacio dentro del mismo contenedor
+de flexbox 
