@@ -23,3 +23,8 @@ que el div o caja que contiene nuestros elementos se vuelva adaptable según los
 2. Direcciones
 flex-direction //nos permite definir hacia que dirección queremos se coloquen nuestros elementos 
 ya sea row, column, row-reverse o column-reverse
+
+3. Envoltorio
+flex-wrap:wrap al empezar a agregar elementos en contenedor sucedera que se salen de ese contenedor, para evitar
+eso utilizamos estra instrucción y eso evitara que se salgan y los coloca debajo de los elementos
+flex-flox:wrap realiza lo mismo que el metodo de arriba
