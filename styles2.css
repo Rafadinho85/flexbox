@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+#layout{
+    height: 200px;
+    border: 3px solid green;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4px;
+    flex-direction: column-reverse;
+}
+
+.caja{
+    width: 200px;
+    height: 50px;
+    border: 4px solid black;
+    color: white;
+    margin: 10px auto;
+    padding: 20px;
+    line-height: 50px;
+    font-size: 25px;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}

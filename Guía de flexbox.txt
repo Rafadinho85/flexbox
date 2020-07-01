@@ -38,3 +38,10 @@ order:3
 flex-grow: 1-12 uno al doce significa el numero de columnas que ocupara nuestro elemento
 ; // cada elemento que tenga esta propiedad va a ocupar el mismo espacio dentro del mismo contenedor
 de flexbox 
+
+flex-shrink:0; disminuye el tamaño de nuestros cajas 
+
+7. flex basis, grow, calc y variables css 
+ flex-basis: calc((100% / 3)-68px); //como usar calc 
+
+ 
