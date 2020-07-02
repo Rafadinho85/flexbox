@@ -8,12 +8,11 @@ body{
     flex-flow:row wrap;
     border: 3px solid green;
     padding: 5px;
-  
+    justify-content: space-evenly;
     
 }
 
 .caja{
-    flex-basis: calc((100% / 3)-68px);
     font-size: 20px;
     font-weight: bold;
     color: white;
@@ -36,6 +35,6 @@ body{
     background-color: green;
 }
 .orange{
-    flex-basis: 100%;
+
     background-color: orange;
 }

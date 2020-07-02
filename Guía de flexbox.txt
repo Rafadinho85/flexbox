@@ -44,4 +44,19 @@ flex-shrink:0; disminuye el tamaño de nuestros cajas
 7. flex basis, grow, calc y variables css 
  flex-basis: calc((100% / 3)-68px); //como usar calc 
 
- 
+ variables
+ definimos variables así 
+
+ --rojo:red;
+y la llamamos
+var(--rojo)
+
+//alineación horizontal 
+ justify-content: space-around; //distribuye nuestros elementos dejando un espación en medio 
+justify-between: igual que el anterior solo que el primer y ultimo elemeno se pegan a los extremos
+    justify-content: space-evenly; igual que el primero pero nuestros valores quedan mas unidos 
+
+    //alineación fa-flip-vertical
+    align-self:center y distintas funciones que nos permiten mover 
+    nuestros elemenos de arriba a abajo
+
